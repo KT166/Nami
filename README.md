@@ -1,3 +1,3 @@
 # Nami
 Nástroje a možnosti internetu
-Tento repozitář jsem založila, protoýe byl zadán panem Honzou Martínkem.
+Tento repozitář jsem založila, protože byl zadán panem Honzou Martínkem.
